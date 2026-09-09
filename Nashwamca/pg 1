@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>college details</title>
+</head>
+<body>
+<h1>align="center"</h1>
+<h1>ICET ,MULAVOOR</h1>
+<p>Ilahia college of Engineering and technology</p>
+<br><br>
+<ol>
+<li>sheena</li>
+<li>shamas</li>
+<li>anup</li>
+</ol>
+<ul>
+<li>s1</li>
+<li>s2</li>
+<li>s3</li>
+</ul>
+<a href=""><b>ICET</b></a>
+<br>
+<table border="1">
+<tr>
+<th>THEORY</th>
+<tr>
+<td>chemisrty</td>
+<td>maths</td>
+<td>physics</td>
+<td>data structure</td>
+</tr> 
+<tr>
+<th>labs</th>
+<td>maths lab</td>
+<td>c lab</td>
+<td>java lab</td>
+</tr>
+
+</body>
+</html>
+
