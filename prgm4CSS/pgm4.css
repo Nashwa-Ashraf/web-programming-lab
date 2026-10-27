@@ -1,0 +1,8 @@
+table{
+background-color:powderblue;
+color:black;
+border-color:brown;}
+th,td{
+border:1px solid brown;
+padding:8px;
+}
